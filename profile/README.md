@@ -1,6 +1,6 @@
 # 식:구(求)(seekgoo)
 
-#### 프로젝트 기간  : (24. 04. 23 ~ )
+#### 프로젝트 기간  : (24. 04. 26 ~ 24. 05. 09 )
 
 #### 멤버 : [정찬수](https://github.com/iamcharles98), [신지연](https://github.com/jiyeoon00), [남우현](https://github.com/hikiman9)
 ---
@@ -25,16 +25,22 @@
 ---
 
 ### 기술 스택 
-- Java 17
-- SpringBoot, JSP
-- MySQL(8.0.32), MyBatis
-- Kakao API
-- Git, Notion, Slack
-- Linux, AWS EC2
+---
+
+#### 프론트 엔드
+![image](https://github.com/SeekGoo/.github/assets/77047099/a77f3f8f-74ba-4e1a-ad48-09fa2e4a086a)
+---
+
+#### 백엔드
+![image](https://github.com/SeekGoo/.github/assets/77047099/6f903732-32fd-40e8-9c1d-5923f1103b1a)
+---
+#### 인프라
+![image](https://github.com/SeekGoo/.github/assets/77047099/08f0f567-b8bf-4442-8406-f3a3dc921662)
 
 
 ---
-### 시스템 구성도 (정리중)
+### 시스템 구성도
+![image](https://github.com/SeekGoo/.github/assets/77047099/e1d7ac1b-3fa0-4c1c-9857-2e7478a9f7bd)
 
 
 
