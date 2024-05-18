@@ -25,41 +25,49 @@
 ---
 
 ### 기술 스택 
----
-
-#### 프론트 엔드
-![image](https://github.com/SeekGoo/.github/assets/77047099/a77f3f8f-74ba-4e1a-ad48-09fa2e4a086a)
----
-
-#### 백엔드
-![image](https://github.com/SeekGoo/.github/assets/77047099/6f903732-32fd-40e8-9c1d-5923f1103b1a)
----
-#### 인프라
-![image](https://github.com/SeekGoo/.github/assets/77047099/08f0f567-b8bf-4442-8406-f3a3dc921662)
-
+![image](https://github.com/SeekGoo/.github/assets/77047099/cfe72cb0-66e2-4310-9109-908052e0072e)
 
 ---
 ### 시스템 구성도
-![image](https://github.com/SeekGoo/.github/assets/77047099/e1d7ac1b-3fa0-4c1c-9857-2e7478a9f7bd)
+![image](https://github.com/SeekGoo/.github/assets/77047099/1ffdeea3-e5f3-446a-aa1b-01348b079dee)
 
 
 
 ---
 ### E-R Diagram
 
-<img width="1015" alt="seekguERD" src="https://github.com/SeekGoo/.github/assets/77047099/5f2db5aa-42c3-4842-a94a-934a4cde49a4">
+<img width="925" alt="image" src="https://github.com/SeekGoo/.github/assets/77047099/50ea6cbb-a6ce-49f7-8fc2-77b6634fc10b">
+
 
 
 ---
 ### 주요 기능 
 - 로그인 및 회원가입 기능
+
+<img width="831" alt="image" src="https://github.com/SeekGoo/.github/assets/77047099/d9893677-e579-4cd3-ad03-cd0652459eb3">
+
 - 식구 모집글 작성 기능
+  - 카카오 지도 검색 기능
+
+<img width="831" alt="image" src="https://github.com/SeekGoo/.github/assets/77047099/4ff35ed0-fcb3-45b1-ba83-5d4d5c5cf709">
+
 - 식구 모집 참여 기능
   - 제한된 인원에 대한 동시성 처리
   - 모집 마감시간 실시간 확인 가능한 카운터 기능
-- 카카오 지도 검색 기능
+ 
+<img width="831" alt="image" src="https://github.com/SeekGoo/.github/assets/77047099/d5961dbd-8d6a-4000-8e29-65a950ea2cb3">
+
 - 리뷰 작성 기능
+
+<img width="831" alt="image" src="https://github.com/SeekGoo/.github/assets/77047099/a3220b46-c8e9-4c67-9ba0-c2a122b8066b">
+
 - 모집 글 미리보기, 상세보기 기능
+
+<img width="831" alt="image" src="https://github.com/SeekGoo/.github/assets/77047099/a4d18006-64d1-4f8c-98e2-b25749eefac9">
+
 - 모집 시작 또는 모집 종료시 알림 기능
   - Slack으로 알림
+
+<img width="831" alt="image" src="https://github.com/SeekGoo/.github/assets/77047099/e1c0264a-9892-4a4a-a909-a7425318612b">
+
 
